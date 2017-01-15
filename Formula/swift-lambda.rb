@@ -1,4 +1,4 @@
-class Swiftda < Formula
+class SwiftLambda < Formula
   desc "Brings the Swift language to AWS Lambda"
   homepage "https://swiftda.readthedocs.io/en/latest/"
   head "https://github.com/awswift/swift-lambda.git"
